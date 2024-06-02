@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     function onPlayerStateChange(event) {
-        // Możesz dodać logikę tutaj, jeśli jest potrzebna
+        
     }
 
     // Funkcja YouTube API
